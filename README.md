@@ -1,6 +1,6 @@
 # vonage_dart
 
-Dart Wrapper around Vonage verify API. 
+Clean Dart Wrapper around Vonage verify API. 
 
 ```dart
  void main() async {
@@ -11,5 +11,7 @@ Dart Wrapper around Vonage verify API.
    print(resp.event_id); // returns -> event_id
  }
 ```
+
+Raise an issue if found a problem running the app or wrapper code. Remember- This wrapper is very much limited to app Phone Verification usage. 
 
 
